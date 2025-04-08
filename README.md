@@ -2,6 +2,9 @@
 
 A quick guide to data analysis using Python and R on Google Colab.
 
+## Get Started
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChuBL/Colab_Tutorial_CS579/blob/main/Colab_Tutorial_CS579.ipynb)
+
 This tutorial covers:
 
 - **Setting up Google Colab**: Introduction to the Google Colab environment and its features.
@@ -11,4 +14,3 @@ This tutorial covers:
 - **Statistical Analysis**: Performing basic statistical tests and interpreting results.
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChuBL/Colab_Tutorial_CS579/blob/main/Colab_Tutorial_CS579.ipynb)
